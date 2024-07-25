@@ -157,5 +157,3 @@
     </div>
 </body>
 </html>
-
-<title>Shubham Verma - MES & Process Optimization Expert</title> <style> body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; } .container { max-width: 800px; margin: auto; } h1, h2, h3 { color: #333; } h2 { border-bottom: 1px solid #ccc; padding-bottom: 5px; } h3 { margin-top: 20px; color: #555; } .contact-info { margin-bottom: 20px; } .contact-info p { margin: 5px 0; } .objective { margin-bottom: 20px; } .work-experience { margin-bottom: 20px; } .skills { margin-bottom: 20px; } .projects-brands { margin-bottom: 20px; } .education { margin-bottom: 20px; } .personal-profile { margin-bottom: 20px; } .declaration { margin-top: 20px; } </style>
