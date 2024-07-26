@@ -1,5 +1,3 @@
-![Screenshot_20190816_115216](https://github.com/user-attachments/assets/b568eeac-f227-49a8-9b7c-5e6e04e0b1c6)
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
